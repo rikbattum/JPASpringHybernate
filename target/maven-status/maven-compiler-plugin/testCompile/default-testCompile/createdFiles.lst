@@ -1,0 +1,10 @@
+domain\Baksteen.class
+domain\exploreJPA.class
+DaoImpl\DeurDaoImpl.class
+domain\DeurKlink.class
+domain\Huis.class
+DaoImpl\AllTests.class
+DaoImpl\DeurDao.class
+domain\Deur.class
+domain\Trap.class
+domain\HuisType.class
